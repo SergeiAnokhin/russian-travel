@@ -13,7 +13,7 @@
 
 **GitHub Pages**
 
-![Ссылка на GitHub Pages](https://sergeianokhin.github.io/russian-travel/index.html)
+[Ссылка на GitHub Pages](https://sergeianokhin.github.io/russian-travel/index.html)
 ---
 
 **Студент:** Сергей Анохин
