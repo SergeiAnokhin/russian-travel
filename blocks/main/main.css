@@ -1,0 +1,8 @@
+.main {
+    width: 100%;
+    color: white;
+    padding-bottom: 92px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
