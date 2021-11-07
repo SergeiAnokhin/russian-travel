@@ -11,6 +11,9 @@
 - Адаптивная верстка под мобильные устройства
 - Модели построения сеток Flex и Grid
 
+**GitHub Pages**
+
+![Ссылка на GitHub Pages](https://sergeianokhin.github.io/russian-travel/index.html)
 ---
 
 **Студент:** Сергей Анохин
