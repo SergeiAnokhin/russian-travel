@@ -18,8 +18,8 @@
 
 @media (max-width: 767px) {
     .cover__overlay {
-        padding-top: calc(31.25% - 67px);
-        padding-bottom: calc(31.25% - 67px);
+        padding-top: calc(31.25% - 75px);
+        padding-bottom: calc(31.25% - 75px);
     }
 }
 

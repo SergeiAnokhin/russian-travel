@@ -1,4 +1,4 @@
-.header__lang {
+.footer__list {
     display: flex;
     list-style-type: none;
     margin: 0;
@@ -6,7 +6,7 @@
 }
 
 @media (max-width: 767px) {
-    .header__lang {
-        padding: 5px 3px 0 0;
+    .footer__list {
+        flex-direction: column;
     }
 }

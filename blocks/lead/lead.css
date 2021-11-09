@@ -17,13 +17,13 @@
 @media (max-width: 1023px) {
     .lead {
         width: 100%;
-        padding-bottom: 88px;
+        padding-bottom: 77px;
     }
 }
 
 @media (max-width: 767px) {
     .lead {
-        padding-bottom: 64px;
+        padding-bottom: 53px;
     }
 }
 
